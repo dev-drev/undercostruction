@@ -4,19 +4,18 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <header
+        style={{
+          backgroundColor: "#0E0E0EFF",
+          fontFamily: "degular",
+        }}
+        className="App-header"
+      >
+        <h4>🚧 Under Construction 🚧</h4>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          My website is getting an upgrade and will be back on April 1st. Stay
+          tuned!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
