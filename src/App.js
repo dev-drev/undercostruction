@@ -8,6 +8,7 @@ function App() {
         style={{
           backgroundColor: "#0E0E0EFF",
           fontFamily: "degular",
+          padding: "0 10%",
         }}
         className="App-header"
       >
