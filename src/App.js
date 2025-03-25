@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -22,8 +22,7 @@ function App() {
               textAlign: "center",
             }}
           >
-            For any request please contact me via e-mail:
-            info@alessandrogiustini.com
+            For any request please contact me here: info@alessandrogiustini.com
           </p>
         </div>
       </div>
