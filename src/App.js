@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header
+      <div
         style={{
           backgroundColor: "#0E0E0EFF",
           fontFamily: "degular",
@@ -12,12 +12,21 @@ function App() {
         }}
         className="App-header"
       >
-        <h4>🚧 Under Construction 🚧</h4>
-        <p>
-          My website is getting an upgrade and will be back on April 7th. Stay
-          tuned!
-        </p>
-      </header>
+        <h4 style={{ fontWeight: 400 }}>
+          🚧 WEBSITE UNDER CONSTRUCTION 🚧 <br />
+          WE APOLOGIZE FOR THE INCONVENIENCE
+        </h4>
+        <div>
+          <p
+            style={{
+              textAlign: "center",
+            }}
+          >
+            For any request please contact me via e-mail:
+            info@alessandrogiustini.com
+          </p>
+        </div>
+      </div>
     </div>
   );
 }
