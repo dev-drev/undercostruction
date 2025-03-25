@@ -14,7 +14,7 @@ function App() {
       >
         <h4>🚧 Under Construction 🚧</h4>
         <p>
-          My website is getting an upgrade and will be back on April 1st. Stay
+          My website is getting an upgrade and will be back on April 7th. Stay
           tuned!
         </p>
       </header>
