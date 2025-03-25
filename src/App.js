@@ -50,7 +50,7 @@ function App() {
       </div>
       <div>
         <p>
-          For any request please contact me here: info@alessandrogiustini.com
+          For any request please contact me here: hello@alessandrogiustini.com
         </p>
       </div>
     </div>
